@@ -47,7 +47,7 @@ Passionate about automating workflows, optimizing systems, and contributing to f
 | Category | Skills |
 |-----------|--------|
 | **Programming & Automation** | Python, Shell Scripting, Flask, n8n Automation |
-| **Databases** | MySQL, Logstash, Elasticsearch |
+| **Databases** | MySQL, Elasticsearch |
 | **Cloud & DevOps** | Microsoft Azure, API Integration, Version Control (Git) |
 | **Networking & Security** | Cisco ASA, Fortinet FortiGate, Sophos, SonicWall |
 | **Monitoring Tools** | Wazuh, Logstash Configuration |
