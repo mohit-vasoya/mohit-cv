@@ -1,23 +1,20 @@
-# Mohit Vasoya - Automation Engineer
+# Automation Engineer
 
 **Location:** Vadodara, Gujarat, India  
 **Email:** [mohitvasoya28@gmail.com](mailto:mohitvasoya28@gmail.com)  
 **Phone:** +91 75679 43205  
 **LinkedIn:** [linkedin.com/in/mohit-vasoya](https://www.linkedin.com/in/mohit-vasoya)  
-**Date of Birth:** 28 October 1997  
 
 ---
 
-## 👨‍💻 About Me
-Automation Engineer with expertise in developing Python-based solutions to streamline processes and enhance system efficiency.  
-Strong proficiency in **API integration**, **Microsoft Azure**, and **data analysis using Elasticsearch**.  
-Passionate about automating workflows, optimizing systems, and contributing to forward-thinking engineering teams.
+## Summary
+Automation Engineer with expertise in developing Python-based solutions to streamline processes and enhance system efficiency. Strong proficiency in **API integration**, **Microsoft Azure**, and **data analysis using Elasticsearch**. Passionate about automating workflows, optimizing systems, and contributing to forward-thinking engineering teams.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### **Automation Engineer**  
+### **Automation Engineer [4 years 3 months]**  
 **Zeronsec India Pvt. Ltd.** | *Aug 2021 – Present, Vadodara, Gujarat*  
 - Developed and implemented **Python-based automation solutions**, reducing manual effort by 40%.  
 - Designed and optimized scripts for **system monitoring, test automation, and data processing**.  
@@ -25,7 +22,7 @@ Passionate about automating workflows, optimizing systems, and contributing to f
 - Specialized in **scripting, debugging, and troubleshooting** within automation frameworks.  
 - Focused on **scalability and reliability** to ensure high-quality automated processes.
 
-### **Automation Trainee Intern**  
+### **Automation Trainee Intern [1 year]**  
 **Zeronsec India Pvt. Ltd.** | *Aug 2020 – Jul 2021, Vadodara, Gujarat*  
 - Worked with **Linux-based systems (CentOS 7)** for server management and environment configuration.  
 - Developed **Python scripts** to automate repetitive OS-level tasks.  
@@ -34,7 +31,7 @@ Passionate about automating workflows, optimizing systems, and contributing to f
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Technology in Computer Engineering**  
 **Marwadi University**, Rajkot, Gujarat | *2016 – 2020*  
@@ -42,20 +39,18 @@ Passionate about automating workflows, optimizing systems, and contributing to f
 
 ---
 
-## 🧠 Skills
+## Skills
 
-| Category | Skills |
-|-----------|--------|
-| **Programming & Automation** | Python, Shell Scripting, Flask, n8n Automation |
-| **Databases** | MySQL, Elasticsearch |
-| **Cloud & DevOps** | Microsoft Azure, API Integration, Version Control (Git) |
-| **Networking & Security** | Cisco ASA, Fortinet FortiGate, Sophos, SonicWall |
-| **Monitoring Tools** | Wazuh, Logstash Configuration |
-| **Operating Systems** | Linux (CentOS, Ubuntu), Windows Server (Active Directory) |
+- **Programming & Automation** - Python, Shell Scripting, Flask, n8n Automation 
+- **Databases** - MySQL, Elasticsearch 
+- **Cloud & DevOps** - Microsoft Azure, API Integration, Version Control (Git) 
+- **Networking & Security** - Cisco ASA, Fortinet FortiGate, Sophos, SonicWall 
+- **Monitoring Tools** - Wazuh, Logstash Configuration 
+- **Operating Systems** - Linux (CentOS, Ubuntu), Windows Server (Active Directory) 
 
 ---
 
-## 🧩 Projects
+## Projects
 
 - **Ekasha** – Automation system optimization  
 - **ThreatI** – Threat intelligence automation  
@@ -65,7 +60,7 @@ Passionate about automating workflows, optimizing systems, and contributing to f
 
 ---
 
-## 📜 Certificates
+## Certificates
 
 - **Database Design & Programming with SQL** – Oracle Academy  
 - **CCNA Routing and Switching: Introduction to Networks** – Cisco Networking Academy  
@@ -73,13 +68,10 @@ Passionate about automating workflows, optimizing systems, and contributing to f
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - **Gujarati** – Native  
 - **Hindi** – Native  
 - **English** – Competent  
 
----
 
-> “Automation is not just about efficiency — it’s about empowering teams to focus on innovation.”  
-> — *Mohit Vasoya*
